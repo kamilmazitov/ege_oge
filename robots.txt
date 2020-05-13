@@ -6,10 +6,10 @@ Allow: *.js
 Allow: *.css
 Allow: *.png
 Allow: *.jpg
-Allow: *.jpeg
+Allow: *.jpg
 Allow: *.gif
 
-Sitemap: https://www.helpegeoge.ru/sitemap.xml
+Sitemap: https://www.kamilmazitov.com/ege_oge/sitemap.xml
 Clean-Param: utm_source&utm_medium&utm_campaign
 
 User-agent: Yandex
@@ -20,7 +20,7 @@ Allow: *.js
 Allow: *.css
 Allow: *.png
 Allow: *.jpg
-Allow: *.jpeg
+Allow: *.jpg
 Allow: *.gif
 
 User-agent: GoogleBot
@@ -31,5 +31,5 @@ Allow: *.js
 Allow: *.css
 Allow: *.png
 Allow: *.jpg
-Allow: *.jpeg
+Allow: *.jpg
 Allow: *.gif
